@@ -3,8 +3,8 @@
 I’m interested in games (casual, VN, slice of life, sappy stuff), anime + manga, general code based suffering.
 I've been dabbling in Ren'Py recently, though my main stay is using Unity/C#
 
-
-Fun fact: Sometimes I get so inspired by random things I can write 5000 words in a single day...except it rarely ever happens for my own projects :'(
+If you'd like to check out any of my projects in action, you can find them on my Itch.io page below!
+https://triangulargames.itch.io/
 
 <!---
 TriangularGames/TriangularGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
